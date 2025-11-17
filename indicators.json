@@ -1179,7 +1179,7 @@
           "description": "",
           "keywords": "",
           "href": "/9-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-5-1",
@@ -1846,14 +1846,6 @@
           "status": "complete"
         },
         {
-          "id": "15-1-2",
-          "title": "Proporció de llocs importants per a la biodiversitat terrestre i de l'aigua dolça inclosos en zones protegides, desglossada per tipus d'ecosistema",
-          "description": "",
-          "keywords": "",
-          "href": "/15-1-2/",
-          "status": "notstarted"
-        },
-        {
           "id": "15-2-1",
           "title": "Superfície arbrada total del terme municipal, sumant verd urbà i verd forestal",
           "description": "",
@@ -1876,14 +1868,6 @@
           "keywords": "",
           "href": "/15-4-1/",
           "status": "complete"
-        },
-        {
-          "id": "15-4-2",
-          "title": "Índex de cobertura verda de les muntanyes",
-          "description": "",
-          "keywords": "",
-          "href": "/15-4-2/",
-          "status": "notstarted"
         },
         {
           "id": "15-5-1",
