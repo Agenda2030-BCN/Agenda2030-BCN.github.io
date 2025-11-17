@@ -822,14 +822,6 @@
           "status": "complete"
         },
         {
-          "id": "6-6-1",
-          "title": "Cambio en la extensión de los ecosistemas relacionados con el agua con el paso del tiempo",
-          "description": "",
-          "keywords": "",
-          "href": "/es/6-6-1/",
-          "status": "inprogress"
-        },
-        {
           "id": "6-6-2",
           "title": "Previsión de porcentaje de tiempo de incumplimiento de la calidad microbiológica del agua de las playas de Barcelona durante la temporada de baño",
           "description": "",
@@ -1523,7 +1515,7 @@
           "description": "",
           "keywords": "",
           "href": "/es/11-5-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-6-1",
@@ -1612,14 +1604,6 @@
           "keywords": "",
           "href": "/es/12-2-2/",
           "status": "complete"
-        },
-        {
-          "id": "12-2-3",
-          "title": "Proporción de dispositivos sanitarios en edificios municipales con mecanismos de ahorro en consumo de agua",
-          "description": "",
-          "keywords": "",
-          "href": "/es/12-2-3/",
-          "status": "notstarted"
         },
         {
           "id": "12-3-1",
@@ -1764,14 +1748,6 @@
           "keywords": "",
           "href": "/es/13-3-2/",
           "status": "complete"
-        },
-        {
-          "id": "13-3-3",
-          "title": "Porcentaje de equipamientos culturales de la ciudad (municipales y consorciados) que destinan parte de su presupuesto a la sensibilización medioambiental o a las acciones para mejorar la sostenibilidad de sus equipamientos",
-          "description": "",
-          "keywords": "",
-          "href": "/es/13-3-3/",
-          "status": "inprogress"
         },
         {
           "id": "13-a-1",

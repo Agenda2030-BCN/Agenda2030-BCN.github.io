@@ -822,14 +822,6 @@
           "status": "complete"
         },
         {
-          "id": "6-6-1",
-          "title": "Canvi en l'extensió dels ecosistemes relacionats amb l'aigua amb el pas del temps",
-          "description": "",
-          "keywords": "",
-          "href": "/6-6-1/",
-          "status": "inprogress"
-        },
-        {
           "id": "6-6-2",
           "title": "Previsió del percentatge de temps d’incompliment de la qualitat microbiològica de l’aigua de les platges de Barcelona durant la temporada de bany",
           "description": "",
@@ -1519,11 +1511,11 @@
         },
         {
           "id": "11-5-3",
-          "title": "Inversió en mesures de prevenció i protecció enfront els episodis climàtics severs",
+          "title": "Pressupost aprovat en acció climàtica directa. Inversions (capítols 6 i 7)",
           "description": "",
           "keywords": "",
           "href": "/11-5-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-6-1",
@@ -1612,14 +1604,6 @@
           "keywords": "",
           "href": "/12-2-2/",
           "status": "complete"
-        },
-        {
-          "id": "12-2-3",
-          "title": "Proporció de dispositius sanitaris en edificis municipals amb mecanismes d’estalvi en consum d’aigua",
-          "description": "",
-          "keywords": "",
-          "href": "/12-2-3/",
-          "status": "notstarted"
         },
         {
           "id": "12-3-1",
@@ -1764,14 +1748,6 @@
           "keywords": "",
           "href": "/13-3-2/",
           "status": "complete"
-        },
-        {
-          "id": "13-3-3",
-          "title": "Percentatge d’equipaments culturals de la ciutat (municipals i consorciats) que destinen part del seu pressupost a la sensibilització mediambiental o a les accions per millorar la sostenibilitat dels seus equipaments",
-          "description": "",
-          "keywords": "",
-          "href": "/13-3-3/",
-          "status": "inprogress"
         },
         {
           "id": "13-a-1",
